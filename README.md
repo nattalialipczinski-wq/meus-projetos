@@ -25,7 +25,7 @@
             Eleve seu negócio digital a outro nível <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Portifolio</title>
-    <link rel="stylesheet" hrital a outro nível ef="style.css">
+    <link rel="stylesheet"  ef="style.css">
 </head>
 <body>
     <header></header>
